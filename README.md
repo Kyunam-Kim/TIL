@@ -6,3 +6,7 @@ TIL
 ---
 
 Today I Learned
+
+```java
+System.out.println("till die");
+```
